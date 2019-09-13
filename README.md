@@ -98,6 +98,11 @@ https://open.spotify.com/track/3wFLWP0FcIqHK1wb1CPthQ?si=Zqm0DRtEQleZsk0dbGfjMw
 ```
 !done clean my desk
 ```
+###### !dota match match-id
+*Returns a table with the results of the match*
+```
+!dota match 5019661251
+```
 --------------------------
 ## TRIGGERS
 
